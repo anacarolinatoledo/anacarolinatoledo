@@ -1,5 +1,5 @@
 <div align = "center" >
-<h2>Olá! Me chamo Ana Carolina Tolêdo! 👋</h2>
+<h3>Olá! Me chamo Ana Carolina Tolêdo! 👋</h3>
 <h3>Prezo pela dedicação e esforço e tento cultivá-los em tudo que me proponho a fazer. Gosto de me comunicar e espero, através do meu trabalho na programação, impactar positivamente a sociedade.</h3>
 </br>
 
