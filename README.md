@@ -19,3 +19,6 @@
 Prezo pela dedicação e esforço e tento cultivá-los em tudo que me proponho a fazer. Gosto de me comunicar e espero através do meu trabalho na programação impactar positivamente a sociedade.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolinatoledo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Entre em contato comigo
+**anacarolinatlm@hotmail.com**
