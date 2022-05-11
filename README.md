@@ -1,8 +1,12 @@
-### Olá! Me chamo Ana Carolina Tolêdo! 👋
+<div align = "center" >
+<h2>Olá! Me chamo Ana Carolina Tolêdo! 👋</h2>
+<h3>Prezo pela dedicação e esforço e tento cultivá-los em tudo que me proponho a fazer. Gosto de me comunicar e espero, através do meu trabalho na programação, impactar positivamente a sociedade.</h3>
+</br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anacarolinatoledolmaia/)
+</div>
 
-![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anacarolinatoledo&show_icons=true&theme=radical)
+
 
 ### Tecnologias que estudo e uso no meu dia a dia
 
@@ -16,9 +20,11 @@
 <img align="center" alt ="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div><br/>
 
-Prezo pela dedicação e esforço e tento cultivá-los em tudo que me proponho a fazer. Gosto de me comunicar e espero através do meu trabalho na programação impactar positivamente a sociedade.
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolinatoledo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Entre em contato comigo
+![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anacarolinatoledo&show_icons=true&theme=radical)
+
+### 📧 Entre em contato comigo 
 **anacarolinatlm@hotmail.com**
