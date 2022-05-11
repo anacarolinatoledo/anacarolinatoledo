@@ -6,7 +6,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anacarolinatoledolmaia/)
 </div>
 
-
+#
 
 ### Tecnologias que estudo e uso no meu dia a dia
 
@@ -25,6 +25,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolinatoledo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anacarolinatoledo&show_icons=true&theme=radical)
+
+#
 
 ### 📧 Entre em contato comigo 
 **anacarolinatlm@hotmail.com**
